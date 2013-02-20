@@ -1,3 +1,5 @@
+Instructions from the Moodle Project:
+
 QUICK INSTALL
 =============
 
