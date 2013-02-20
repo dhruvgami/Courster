@@ -31,3 +31,4 @@
 /moodle/composer.lock
 /vendor/
 /moodle/config.php
+/*/.DS_Store
